@@ -1,4 +1,7 @@
 __name__ = "firi"
-__version__ = "0.0.0"
+__version__ = "0.0.1"
+__author__ = "offish"
 
-# TBA
+from .client import Firi
+from .markets import *
+from .utils import floatify
