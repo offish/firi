@@ -5,11 +5,9 @@
 [![Size](https://img.shields.io/github/repo-size/offish/firi.svg)](https://github.com/offish/firi)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Python package for interacting with [Firi](https://firi.com/affiliate/?referral=01f67b69)' (refferal) [API](https://developers.firi.com/#/).
+Python package for interacting with [Firi](https://firi.com/affiliate/?referral=01f67b69)'s [API](https://developers.firi.com/#/).
 
-[Firi](https://firi.com) (not refferal)
-
-**Donate: **
+Non-refferal link [here](https://firi.com).
 
 **THIS PACKAGE DOES NOT CURRENTLY SUPPORT PRIVATE ENDPOINTS.**
 
@@ -37,3 +35,8 @@ pip install --upgrade firi
 
 ## Documentation
 Firi's official documentation can be found [here](https://developers.firi.com/#/README).
+
+## Donate
+BTC: 37hb1eSbodHcKBdH2RbVenbFhkVVGXG2z5
+
+ETH: 0x7862b653d13f2e08df6ee129041511d01a3a0f59
